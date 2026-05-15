@@ -27,3 +27,10 @@ Interactive business intelligence dashboard built in Power BI for analyzing busi
 ## Project Files
 - Power BI dashboard (.pbix)
 - Dashboard screenshots
+## Dashboard Screenshots
+
+![Executive Overview](./executive-overview.jpg)
+
+![Sales Analysis](./sales-analysis.jpg)
+
+![Advanced Analysis](./advanced-analysis.jpg)
